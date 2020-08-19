@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191858234691",
+    "firebase_url": "https://adastar-f98b7.firebaseio.com",
+    "project_id": "adastar-f98b7",
+    "storage_bucket": "adastar-f98b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191858234691:android:be3c2f22c5cd9da02b0bf6",
+        "android_client_info": {
+          "package_name": "com.dartdroid.adastar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191858234691-tibcotp0m8ccud4f6f55q6od0kuhrrp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEDp4WUjfIfdwbYzX3jv5nrMoA5pFkKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191858234691-tibcotp0m8ccud4f6f55q6od0kuhrrp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
